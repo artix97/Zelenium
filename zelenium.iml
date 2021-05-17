@@ -132,5 +132,6 @@
     <orderEntry type="library" name="Maven: org.springframework.security:spring-security-web:5.1.1.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.thymeleaf.extras:thymeleaf-extras-springsecurity5:3.0.4.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.25" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.mockito:mockito-all:1.10.19" level="project" />
   </component>
 </module>
